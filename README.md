@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeyadAshrafElbanna
-- 👀 I’m interested in computer engineering and embedded systems softwares and cyber security
-- 🌱 I’m currently learning embedded systems and cyber security 
+- 👀 I’m interested in computer engineering and cyber security
+- 🌱 I’m currently learning penetration testing. 
 - 💞️ I’m looking to collaborate on as many as projects to improve my self in this fields 
 - 📫 you can reach me from my linkedin [ www.linkedin.com/in/zeyad-ashraf-053979216 ]
 
